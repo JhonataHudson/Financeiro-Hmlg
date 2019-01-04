@@ -1,0 +1,68 @@
+#Acessar:
+
+login: "#logon"
+
+senha: "#senha"
+
+ok: "#submit"
+
+user: "jhonatarita"
+
+password: "Jhonata@2018"
+
+#Modal:
+first_modal: ".btn.btn-default"
+close_modal: '.ui-icon.ui-icon-closethick'
+modal_contratos: '#QtdeContratos'
+#Menu pesquisa:
+Menu_home: ".i_menu"
+
+tag_a: "a"
+
+#Campo de pesquisa rapida:
+pesquisa_home: "#buscarMenuTxt"
+#Clicar em pesquisar:
+lista: "#searchMenus"
+
+#Clicar em reservas:
+tag_div: "div"
+
+#fechar modal:
+fechar_modal: ".ui-icon.ui-icon-closethick"
+#Preenchimento dos campos para efetuar uma reserva:
+#ABA IDENTIFICAR CLIENTE
+ 
+cliente: "#Cliente"
+el_dropdown: ".ui-autocomplete.ui-menu.ui-widget.ui-widget-content.ui-corner-all"
+li_dropdown: "li"
+
+#ABA:
+escolher_veiculo: "#link2"
+
+#CAMPO_contrato
+local_retirada: "#Local_Retirada"
+Campo_cliente: '#Cliente'
+Cliente: "Lucas Longobardi Arena dos Santos"
+
+
+#Clicar
+municipio: "Guarulhos"
+data_ret: "#DT_Retirada"
+data_dev: "#DT_Devolucao"
+grupo: "#Grupo"
+#ABA FINALIZAR Reserva
+finalizar_reserva: "#link3"
+companhia: "#CompanhiaAerea"
+pagamento: "#Forma"
+
+
+#elementos contrato 
+Id_retirada: '#DT_Retirada'
+Id_devolucao: '#DT_Devolucao'
+
+tarifa_nao_aplicada: 'Ops! Problemas no cálculo da tarifa da tabela (PESSOA FISICA 7) período (2) Erro ao carregar dados básicos para o cálculo dos valores das tarifas. Periodo não encontrado, contate a equipe comercial.'
+
+#RESERVAS
+aba_escolher_veiculo: '#link2'
+finalizar_reserva: '#link3'
+

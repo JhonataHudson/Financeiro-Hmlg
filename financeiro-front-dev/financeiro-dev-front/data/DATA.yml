@@ -1,0 +1,188 @@
+:protecao:
+  1: "BAS - Básica - Veículo 53"
+  2: "COM - Completa - Veículo + terceiros 54"
+  3: "PAI - Ocupantes (PAI) 57"
+  4: "SUP - Super - Veículo terceiros + ocupantes 55"
+  5: "ALI - Terceiros (ALI) 56"
+  6: "WDW - Vidros Básica - Proteção para Vidros 44"
+  7: "WDWP - Vidros Plus - Proteção Vidros + Pneus 45" 
+
+
+:adicional: 
+  1: "Bebê Conforto" #contem numero de serie 
+  2: "Booster - Assento p/  crianças"  #contem numero de serie            
+  3: "Cadeira de Bebê"   #contem numero de serie 
+  4: "Carbon Free" #somente adicionar 
+  5: "Carro Reserva"  #somente adicionar
+  6: "COLLECTION PLATAFORMAS" #somente quantidade e adicionar por padrao
+  7: "Condutor Adicional" #somente adicionar
+  8: "DELIVERY PLATAFORMAS" #somente quantidade e adicionar por padrao
+  9: "GPS" #contem numero de serie  
+  10: "Hora Extra Motorista" #somente quantidade e adicionar por padrao
+  11: "Lavagem Antecipada" #somente quantidade e adicionar por padrao
+  12: "Locação Jovem - Todos os Grupos" #somente adicionar
+  13: "Motorista Bilíngue"  #somente quantidade e adicionar por padrao
+  14: "Motorista Monolíngue" #somente quantidade e adicionar por padrao
+  15: "Movida Bagging"  #contem numero de serie e quantidade
+  16: "Movida Connect" #somente adicionar
+  17: "Movida Express" #somente quantidade e adicionar por padrao
+  18: "Movida WiFi"   #contem numero de serie 
+  19: "Responsável Financeiro" #somente quantidade e adicionar por padrao
+  21: Tanque Cheio  - Grupo S" #somente quantidade e adicionar por padrao
+  22: "Tanque Cheio - Grupos A ao H" #somente quantidade e adicionar por padrao
+  23: Tanque Cheio - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  24: Tanque Cheio - J ao W" #somente quantidade e adicionar por padrao
+  25: Tanque Cheio BA_SE_AL  - Grupo S e V" #somente quantidade e adicionar por padrao
+  26: Tanque Cheio BA_SE_AL - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  27: Tanque Cheio BA_SE_AL - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  28: Tanque Cheio BA_SE_AL - J ao Q" #somente quantidade e adicionar por padrao
+  29: Tanque Cheio CO  - Grupo S e V" #somente quantidade e adicionar por padrao
+  30: "Tanque Cheio CO - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  31: "Tanque Cheio CO - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  32: "Tanque Cheio CO - J ao Q" #somente quantidade e adicionar por padrao
+  33: "Tanque Cheio MG - Grupo S e V" #somente quantidade e adicionar por padrao
+  34: "Tanque Cheio MG - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  35: "Tanque Cheio MG - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  36: "Tanque Cheio MG - J ao Q" #somente quantidade e adicionar por padrao
+  37: "Tanque Cheio NE  - Grupo S e V" #somente quantidade e adicionar por padrao
+  38: "Tanque Cheio NE - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  39: "Tanque Cheio NE - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  40: "Tanque Cheio NE - J ao Q" #somente quantidade e adicionar por padrao
+  41: "Tanque Cheio NO - Grupo S e V" #somente quantidade e adicionar por padrao
+  42: "Tanque Cheio NO - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  43: "Tanque Cheio NO - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  44: "Tanque Cheio NO - J ao Q" #somente quantidade e adicionar por padrao
+  45: "Tanque Cheio PR e SC  - Grupo S e V" #somente quantidade e adicionar por padrao
+  46: "Tanque Cheio PR e SC - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  47: "Tanque Cheio PR e SC - J ao Q" #somente quantidade e adicionar por padrao
+  48: "Tanque Cheio RJ - Grupo S e V" #somente quantidade e adicionar por padrao
+  49: "Tanque Cheio RJ - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  50: "Tanque Cheio RJ - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  51: "Tanque Cheio RJ - J ao Q" #somente quantidade e adicionar por padrao
+  52: "Tanque Cheio SP - Grupo S e V" #somente quantidade e adicionar por padrao
+  53: "Tanque Cheio SP - Grupos AX ao HX" #somente quantidade e adicionar por padrao
+  54: "Tanque Cheio SP - Grupos T ao ZX" #somente quantidade e adicionar por padrao
+  55: "Tanque Cheio SP - J ao Q" #somente quantidade e adicionar por padrao
+
+:despesas: 
+
+
+locais_retirada: [
+  SSA
+  ,GRU
+  ,CGH
+  ,RPT
+  ,GRUO
+  ,SUZ
+  ,SCS
+  ,LCP
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

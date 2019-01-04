@@ -1,0 +1,11 @@
+ source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'capybara'
+gem 'pry'
+gem 'pry-nav'
+gem 'selenium-webdriver'
+gem 'ffaker'
+gem 'holidays'
+gem 'report_builder'
+gem 'rspec'
